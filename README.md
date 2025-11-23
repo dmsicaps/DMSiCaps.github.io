@@ -153,7 +153,11 @@ Estados Unidos<br>
 <section class="section" id="contacto">
     <h2>Contacto</h2>
     <p>📱 WhatsApp: <b>+1 512-806-37-19</b></p>
-    <p>📸 Facebook: <b>𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼</b></p>
+    <p>📸 Facebook: <b>𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼</b></p> <div class="item">
+            <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2612.jpeg" alt="Gorra 1">
+            <h3>Gorra Premium Negra tres cruces</h3>
+            <p>$50 USD</p>
+        </div>
 </section>
 
 <footer>
