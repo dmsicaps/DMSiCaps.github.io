@@ -114,7 +114,7 @@
 
         <div class="item">
             <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2612.jpeg" alt="Gorra 1">
-            <h3>Gorra Premium Negra</h3>
+            <h3>Gorra Premium Negra tres cruces</h3>
             <p>$50 USD</p>
         </div>
 
