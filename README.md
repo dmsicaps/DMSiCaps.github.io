@@ -104,7 +104,7 @@
 </nav>
 
 <div class="hero">
-    Gorras Exclusivas DIEMSI
+    Gorras Exclusivas DMSi
 </div>
 
 <section class="section" id="catalogo">
@@ -113,7 +113,7 @@
     <div class="catalogo">
 
         <div class="item">
-            <img src="https://images.unsplash.com/photo-1528701800489-20be3c1f5a5e" alt="Gorra 1">
+            <img src="https://www.facebook.com/share/1ER8c5hWuD/?mibextid=wwXIfr" alt="Gorra 1">
             <h3>Gorra Premium Negra</h3>
             <p>$45 USD</p>
         </div>
@@ -125,7 +125,7 @@
         </div>
 
         <div class="item">
-            <img src="https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb" alt="Gorra 3">
+            <img src="https://www.facebook.com/share/1ER8c5hWuD/?mibextid=wwXIfr" alt="Gorra 3">
             <h3>Edición Especial</h3>
             <p>$65 USD</p>
         </div>
