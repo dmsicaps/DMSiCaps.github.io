@@ -125,7 +125,7 @@
         </div>
 
         <div class="item">
-            <img src="https://www.facebook.com/share/1ER8c5hWuD/?mibextid=wwXIfr" alt="Gorra 3">
+            <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2693.jpeg">
             <h3>Edición Especial</h3>
             <p>$65 USD</p>
         </div>
