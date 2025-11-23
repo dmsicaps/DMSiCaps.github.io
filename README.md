@@ -34,7 +34,7 @@
         }
 
         .hero {
-            background: url('https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2162.png') center/cover;
+            background: url('https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2803.jpeg') center/cover;
             height: 350px;
             display: flex;
             justify-content: center;
