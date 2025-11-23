@@ -119,8 +119,8 @@
         </div>
 
         <div class="item">
-            <img src="IMG_2752.mov" alt="Gorra 2">
-            <h3>Gorra Blanca Logo DIEMSI</h3>
+            <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2627.jpeg" alt="Gorra 2">
+            <h3>Gorra Blanca Azul LA </h3>
             <p>$45 USD</p>
         </div>
 
