@@ -119,7 +119,7 @@
         </div>
 
         <div class="item">
-            <img src="https://www.facebook.com/share/14WW7hn8uXt/?mibextid=wwXIfr" alt="Gorra 2">
+            <img src="IMG_2752.mov" alt="Gorra 2">
             <h3>Gorra Blanca Logo DIEMSI</h3>
             <p>$45 USD</p>
         </div>
