@@ -113,7 +113,7 @@
     <div class="catalogo">
 
         <div class="item">
-            <img src="https://www.facebook.com/share/1ER8c5hWuD/?mibextid=wwXIfr" alt="Gorra 1">
+            <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2693.jpeg" alt="Gorra 1">
             <h3>Gorra Premium Negra</h3>
             <p>$45 USD</p>
         </div>
