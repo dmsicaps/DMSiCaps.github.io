@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diemsi Caps</title>
+    <title>𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼</title>
     <style>
         body {
             margin: 0;
@@ -95,7 +95,7 @@
 </head>
 <body>
 
-<header>DIEMSI CAPS</header>
+<header>𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼</header>
 
 <nav>
     <a href="#catalogo">Catálogo</a>
@@ -115,7 +115,7 @@
         <div class="item">
             <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2693.jpeg" alt="Gorra 1">
             <h3>Gorra Premium Negra</h3>
-            <p>$45 USD</p>
+            <p>$50 USD</p>
         </div>
 
         <div class="item">
@@ -137,19 +137,21 @@
     <h2>Ubicación</h2>
     <p class="ubi">
         📍 Frente a **Tacos Charly**<br>
-        📍 Calle Lamar, Austin, Texas<br>
-        🧢 Ven por tu gorra DIEMSI
+        📍 9306 N Lamar Blvd
+Austin, TX  78753
+Estados Unidos<br>
+        🧢 Ven por tu gorra 𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼
     </p>
 </section>
 
 <section class="section" id="contacto">
     <h2>Contacto</h2>
     <p>📱 WhatsApp: <b>+1 512-806-37-19</b></p>
-    <p>📸 Instagram: <b>@diemsi_caps</b></p>
+    <p>📸 Facebook: <b>𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼</b></p>
 </section>
 
 <footer>
-    © 2025 DMSiCaps – Todos los derechos reservados
+    © 2025 𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼– Todos los derechos reservados
 </footer>
 
 </body>
