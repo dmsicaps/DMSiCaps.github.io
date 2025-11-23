@@ -119,7 +119,7 @@
         </div>
 
         <div class="item">
-            <img src="https://images.unsplash.com/photo-1503342217505-b0a15ec3261c" alt="Gorra 2">
+            <img src="https://www.facebook.com/share/14WW7hn8uXt/?mibextid=wwXIfr" alt="Gorra 2">
             <h3>Gorra Blanca Logo DIEMSI</h3>
             <p>$45 USD</p>
         </div>
@@ -144,12 +144,12 @@
 
 <section class="section" id="contacto">
     <h2>Contacto</h2>
-    <p>📱 WhatsApp: <b>+1 512-000-0000</b></p>
+    <p>📱 WhatsApp: <b>+1 512-806-37-19</b></p>
     <p>📸 Instagram: <b>@diemsi_caps</b></p>
 </section>
 
 <footer>
-    © 2025 DIEMSI – Todos los derechos reservados
+    © 2025 DMSiCaps – Todos los derechos reservados
 </footer>
 
 </body>
