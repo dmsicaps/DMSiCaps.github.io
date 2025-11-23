@@ -104,7 +104,7 @@
 </nav>
 
 <div class="hero">
-    Gorras Exclusivas DMSi
+    Gorras Exclusivas 𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼
 </div>
 
 <section class="section" id="catalogo">
