@@ -120,19 +120,19 @@
 
         <div class="item">
             <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2627.jpeg" alt="Gorra 2">
-            <h3>Gorra Blanca Azul LA </h3>
-            <p>$45 USD</p>
+            <h3>Gorra belica Azul LA </h3>
+            <p>$50 USD</p>
         </div>
 
         <div class="item">
-            <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2693.jpeg">
-            <h3>Edición Especial</h3>
-            <p>$65 USD</p>
+            <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2639.jpeg">
+            <h3>Edición especial Gorra 3 Estrellas </h3>
+            <p>$50 USD</p>
         </div>
 <div class="item">
             <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_2693.jpeg">
-            <h3>Edición Especial</h3>
-            <p>$65 USD</p>
+            <h3>Edición Especial gorra ultima cena </h3>
+            <p>$50 USD</p>
         </div>
 
 
