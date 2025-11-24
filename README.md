@@ -162,4 +162,4 @@ Estados Unidos<br>
 <footer>
     © 2025 𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼– Todos los derechos reservados
 </footer>
-</html>
+
