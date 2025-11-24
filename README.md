@@ -163,6 +163,7 @@ Estados Unidos<br>
 <footer>
     © 2025 𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼– Todos los derechos reservados
 </footer>
+<audio autoplay src="Voy a triunfar.mp3" loop></audio>
 
 </body>
 </html>
