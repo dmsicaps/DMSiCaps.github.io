@@ -157,13 +157,13 @@ Estados Unidos<br>
             <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_1689.jpeg" alt="Gorra 1">
             <h3>Ecanea el codigo para que vayas a visitar el catalago completo en la pagina de Facebook</h3>
             
-        </div> <audio controls src="Voy a triunfar.mp3" de "github.com"></audio>
+        
 </section>
 
 <footer>
     © 2025 𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼– Todos los derechos reservados
 </footer>
-<audio autoplay src="Voy a triunfar.mp3" de "github.com" loop></audio>
+
 
 </body>
 </html>
