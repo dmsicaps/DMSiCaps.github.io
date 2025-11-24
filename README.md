@@ -153,7 +153,8 @@ Estados Unidos<br>
 <section class="section" id="contacto">
     <h2>Contacto</h2>
     <p>📱 WhatsApp: <b>+1 512-806-37-19</b></p>
-    <p>📸 Facebook: <b>𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼</b></p> <div class="item">
+    <p>📸 Facebook:<a href="https://www.facebook.com/share/17U3z4tEKf/?mibextid=wwXIfr"><b>𝓓𝓜𝓢𝓲 𝓒𝓪𝓹𝓼</b></a>
+ </p> <div class="item">
             <img src="https://raw.githubusercontent.com/dmsicaps/DMSiCaps.github.io/refs/heads/main/IMG_1689.jpeg" alt="Gorra 1">
             <h3>Ecanea el codigo para que vayas a visitar el catalago completo en la pagina de Facebook</h3>
 </section>
